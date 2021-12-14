@@ -6,3 +6,4 @@ Nesse repositório vamos implementar algumas estruturas de dados usando Go
 
 * [Hash Table](hash-table)
 * [Lista Encadeada](linked-list)
+* [Pilha](stack)
